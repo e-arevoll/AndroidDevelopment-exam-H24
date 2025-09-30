@@ -1,4 +1,4 @@
-# Adroid Development Exam Autumn 2024
+# Android Development Exam Autumn 2024
 
 ### Run the project
 - Clone repo using web URL: ``git clone https://github.com/e-arevoll/AndroidDevelopment-exam-H24.git ``
@@ -7,7 +7,7 @@
 - Click play, and remember, give it some time for the apps content to load : )
 
 ### Overview and notes
-#### Case: Rick & Morty App
+## Case: Rick & Morty App
 We were tasked with creating an app for fans of the show Rick and Morty, where a feature of the app was letting the fans create their own character. 
 We had to create 4 screens
 #1 Show characters from rickandmortyapi.com
